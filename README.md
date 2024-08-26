@@ -62,18 +62,25 @@ During training, the generator and discriminator losses are tracked, and probabi
 
 ## Probability Distribution Graphs
 Below are the probability distribution graphs showing the distributions of real and generated data at different training epochs.
+![Probability Distribution Graph 1](./prob_dist/Figure%202024-07-13%20222956%20(1).png)
 
-![Probability Distribution Graph 1](./prob%20dist/1.png)
+![Probability Distribution Graph 2](./prob_dist/Figure%202024-07-13%20222956%20(2).png)
 
-![Probability Distribution Graph 2](../prob_dist/2.png)
-![Probability Distribution Graph 3](./prob_dist/3.png)
-![Probability Distribution Graph 4](./prob_dist/4.png)
-![Probability Distribution Graph 5](./prob_dist/5.png)
-![Probability Distribution Graph 6](./prob_dist/6.png)
-![Probability Distribution Graph 7](./prob_dist/7.png)
-![Probability Distribution Graph 8](./prob_dist/8.png)
-![Probability Distribution Graph 9](./prob_dist/9.png)
-![Probability Distribution Graph 10](./prob_dist/10.png)
+![Probability Distribution Graph 3](./prob_dist/Figure%202024-07-13%20222956%20(4).png)
+
+![Probability Distribution Graph 4](./prob_dist/Figure%202024-07-13%20222956%20(5).png)
+
+![Probability Distribution Graph 5](./prob_dist/Figure%202024-07-13%20222956%20(7).png)
+
+![Probability Distribution Graph 6](./prob_dist/Figure%202024-07-13%20222956%20(8).png)
+
+![Probability Distribution Graph 7](./prob_dist/Figure%202024-07-13%20222956%20(10).png)
+
+![Probability Distribution Graph 8](./prob_dist/Figure%202024-07-13%20222956%20(11).png)
+
+![Probability Distribution Graph 9](./prob_dist/Figure%202024-07-13%20222956%20(13).png)
+
+![Probability Distribution Graph 10](./prob_dist/Figure%202024-07-13%20222956%20(14).png)
 
 ## Generated Images
 Below are the generated images produced by the model at different training epochs.
