@@ -62,6 +62,7 @@ During training, the generator and discriminator losses are tracked, and probabi
 
 ## Probability Distribution Graphs
 Below are the probability distribution graphs showing the distributions of real and generated data at different training epochs.
+
 ![Probability Distribution Graph 1](./prob_dist/Figure%202024-07-13%20222956%20(1).png)
 
 ![Probability Distribution Graph 2](./prob_dist/Figure%202024-07-13%20222956%20(2).png)
@@ -85,14 +86,23 @@ Below are the probability distribution graphs showing the distributions of real 
 ## Generated Images
 Below are the generated images produced by the model at different training epochs.
 
-![Generated Image 1](path/to/generated_image_1.png)
-![Generated Image 2](path/to/generated_image_2.png)
-![Generated Image 3](path/to/generated_image_3.png)
-![Generated Image 4](path/to/generated_image_4.png)
-![Generated Image 5](path/to/generated_image_5.png)
-![Generated Image 6](path/to/generated_image_6.png)
-![Generated Image 7](path/to/generated_image_7.png)
-![Generated Image 8](path/to/generated_image_8.png)
-![Generated Image 9](path/to/generated_image_9.png)
-![Generated Image 10](path/to/generated_image_10.png)
+![Generated Image 1](./images_generated/inital/Figure%202024-07-07%20151714%20(0).png)
+
+![Generated Image 2](./images_generated/inital/Figure%202024-07-07%20151714%20(1).png)
+
+![Generated Image 3](./images_generated/inital/Figure%202024-07-07%20151714%20(2).png)
+
+![Generated Image 4](./images_generated/inital/Figure%202024-07-07%20151714%20(3).png)
+
+![Generated Image 5](./images_generated/inital/Figure%202024-07-07%20151714%20(4).png)
+
+![Generated Image 6](./images_generated/inital/Figure%202024-07-07%20151714%20(5).png)
+
+![Generated Image 7](./images_generated/inital/Figure%202024-07-07%20151714%20(6).png)
+
+![Generated Image 8](./images_generated/inital/Figure%202024-07-07%20151714%20(7).png)
+
+![Generated Image 9](./images_generated/inital/Figure%202024-07-07%20151714%20(8).png)
+
+![Generated Image 10](./images_generated/inital/Figure%202024-07-07%20151714%20(9).png)
 
